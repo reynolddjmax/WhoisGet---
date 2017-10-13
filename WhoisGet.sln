@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoisGet", "WhoisGet\WhoisGet.csproj", "{D185FE5E-3022-4465-9A9C-2306EECF19CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchGet", "DLL\SearchGet\SearchGet.csproj", "{A30C7075-0669-4AF4-94A1-AF454B07AA22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchGet", "bbbbbbb\SearchGet\SearchGet.csproj", "{A30C7075-0669-4AF4-94A1-AF454B07AA22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
